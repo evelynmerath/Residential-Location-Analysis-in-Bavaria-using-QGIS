@@ -1,7 +1,8 @@
 # Residential-Location-Analysis-in-Bavaria-using-QGIS
 
 This project investigates potential residential locations in Bavaria based on spatial planning and landscape-related criteria. It represents a further development of my previous residential location analysis project in Baden-Württemberg and extends the analysis to the entire southern German region.
-!(images/header_picture.png)
+</> Markdown
+![Header Picture](images/header_picture.png)
 
 ---
 ## Objective
