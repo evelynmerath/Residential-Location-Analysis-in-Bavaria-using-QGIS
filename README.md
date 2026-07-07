@@ -30,6 +30,9 @@ The previous Baden-Württemberg project revealed several challenges and inaccura
 - To better visualise the influence areas of municipalities, a multi-stage transparent buffer system was created depending on the classification of each municipality. Higher-order centres are prioritised over lower-order centres to avoid overlapping areas with mixed colours.
 - Residential areas were added as the top layer of the analysis. This significantly reduces the potentially suitable area, as areas such as agricultural land are excluded from the residential suitability assessment.
 
+The following picture shows the buffer structure and the classification of the municipalities.
+![Augsburg Picture](images/Ansicht_Augsburg.png)
+
 ---
 ## Insights
 
