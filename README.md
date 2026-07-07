@@ -50,4 +50,4 @@ https://www.gesetze-bayern.de/Content/Document/BayLEP/true?view=Print
 ---
 ## Results
 
-![Overview Map](Wohnortanalyse_Bayern_Map.jpeg)
+![Overview Map](images/Wohnortanalyse_Bayern_Map.jpeg)
