@@ -31,6 +31,7 @@ The previous Baden-Württemberg project revealed several challenges and inaccura
 - Residential areas were added as the top layer of the analysis. This significantly reduces the potentially suitable area, as areas such as agricultural land are excluded from the residential suitability assessment.
 
 The following picture shows the buffer structure and the classification of the municipalities.
+
 ![Augsburg Picture](images/Ansicht_Augsburg.png)
 
 ---
